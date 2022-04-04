@@ -1,0 +1,18 @@
+Loops
+  Loops lectures
+    What are Loops?
+    Repeating Tasks
+    The for-in Loop
+    The stride() Function
+    Iterating Through Strings
+    Using Underscore
+    The continue Keyword
+    The break Keyword
+    While Loop
+    Review
+  Loops quiz
+  Whale Talk project
+  99 Bottles of Milk project
+  Fizz Buzz project
+  
+    
