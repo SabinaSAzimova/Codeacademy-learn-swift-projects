@@ -1,0 +1,31 @@
+Arrays & Sets
+  Arrays lectures
+    Introduction to Arrays
+    Creating an Empty Array
+    Creating an Array Literal
+    Index
+    .count Property
+    .append() Method
+    .insert() and .remove() Methods
+    Iterating Over an Array
+    Review
+  Arrays quiz
+  Make a Mixtape 101 project
+  Palindrome project
+  Caesar's Cipher project
+  Sets lectures
+    Introduction to Sets
+    Creating a Set
+    .count and .isEmpty
+    Inserting Elements
+    Removing Elements
+    Checking For Elements
+    Iterating Through a Set
+    Set Operations: .intersection()
+    Set Operations: .union()
+    Set Operations: .symmmetricDifference()
+    Set Operations: .subtracting()
+    Review
+   Sets quiz
+   School Roster project
+  
