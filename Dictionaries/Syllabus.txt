@@ -1,0 +1,18 @@
+Dictionaries
+  Dictionaries lectures
+    Introduction to Dictionaries
+    Creating an Empty Dictionary
+    Creating a Dictionary Literal
+    Type Inference
+    Adding Elements
+    Updating Elements
+    Removing Elements
+    Inspecting a Dictionary
+    Accessing Values
+    Iterating through a Dictionary
+    Using .keys and .values
+    Review
+  What are Tuples? article
+  Dictionaries quiz
+  if-let Statements article
+  Morse Decoder project
