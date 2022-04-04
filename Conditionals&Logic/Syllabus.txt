@@ -1,0 +1,25 @@
+Conditionals & Logic
+  Conditionals lectures
+    Introduction to Conditionals
+    If Statement
+    Else Statement
+    Comparison Operators
+    Else If Statements
+    Ternary Conditional Operator
+    Switch Statement
+    Switch Statement: Interval Matching
+    Switch Statement: Compound Cases
+    Switch Statement: where Clause
+    Review
+  Conditionals quiz
+  Logical Operators lectures
+    Introduction to Logical Operatorrs
+    Logical AND Operator
+    Logical OR Operator
+    Logical NOT Operator
+    Combining Logical Operators
+    Controlling Order of Execution
+    Review
+  Logical Operators quiz
+  Magic 8-Ball project
+  
