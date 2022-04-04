@@ -1,0 +1,17 @@
+Variables
+  Variables lectures 
+    Introduction to Variables
+    Declare a Variable
+    Arithmetic Operators
+    Compound Assignment Operators
+    Type
+    String Interpolation
+    Constants
+    Challenge: Temperature
+    Review
+  Variables quiz
+  Dog Years project
+  Quadratic Formula project
+  Piggy Bank projet
+  
+  
