@@ -1,0 +1,16 @@
+Structures
+  Structures lectures
+    What is a Structure
+    Creating a Structure
+    Default Property Values
+    Creating an Instance
+    Accessing and Editing Properties
+    The Init Method
+    Memberwise Initialization
+    Structure Methods
+    Mutating Methods
+    New Type
+    Structures are Value Types
+    Review
+  Structures quiz
+  Structured Gym Regimen project   
