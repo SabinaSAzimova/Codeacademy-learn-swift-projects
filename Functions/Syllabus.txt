@@ -15,4 +15,4 @@ Functions
     In-Out Parameters
     Review
   Functions quiz
-  Rock, Paper, Scissors
+  Rock, Paper, Scissors project
